@@ -1,4 +1,4 @@
-### Hi there 👋
+![](https://count-profile-views.vercel.app/api/badge)
 
 <!--
 **dulowski-marek/dulowski-marek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
